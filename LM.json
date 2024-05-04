@@ -22,7 +22,8 @@
     "sites": [
         {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/玩偶哥哥.json"},
         {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
-        {"key":"csp_555电影福利","name":"💡555福🚩🍏6","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555电影.json","jar": "./jar/HCCX.jar"},
+        {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"},
+        {"key":"csp_555电影福利","name":"555电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555电影.json","jar": "./jar/HCCX.jar"},
         {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_KubaCL","name":"🧲酷吧电影","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
@@ -35,7 +36,6 @@
         {"key": "csp_XYQHiker_哔嘀影视","name":"🧲哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/哔嘀影视.json"},
         {"key":"csp_Ddys","name":"🐞低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://oiuzy.haitu33.com"},
-        {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"},
         {"key":"csp_Bili","name":"🐞哔哩综合","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./lib/Bili.json"},
         {"key": "csp_XYQHiker_兔小贝","name":"兔小贝(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/兔小贝.json"},
         {"key": "csp_XYQHiker_兔小贝2","name":"兔小贝2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lib/兔小贝2.json"},
