@@ -11,6 +11,14 @@
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
+          "name": "live文件",
+          "type":"0",
+          "pass": true,
+          "url":"./live.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
           "name": "FMM_IPV6",
           "type":"0",
           "pass": true,
